@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Shrunkhal
+ *
+ */
+module java {
+}
